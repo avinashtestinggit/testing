@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 1.0.0
+Summary: wheel test
+Home-page: UNKNOWN
+Author: Avinash
+Author-email: avinash.shukla@capgemini.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: python:3
+Requires-Python: >=3.7
+
+UNKNOWN
+
